@@ -8,8 +8,8 @@ type: book  # Do not modify.
 * There is also (for most chapters) a session with 'Further readings/resources'. That is entirely optional and is dedicated to those of you who want to push themselves a little bit more. 
 
 **Credits:**
-*This content was largely created and curated by Jedrek Miecznikowski to support the R course running in fall 2020 at AU
-*Parts of this reporsitory were developed by http://datacarpentry.org and are therefore marked with Copyright (c) Data Carpentry"
-*Please also check the credits section for more references/acknolwedgements
+* This content was largely created and curated by Jedrek Miecznikowski to support the R course running in fall 2020 at AU
+* Parts of this reporsitory were developed by http://datacarpentry.org and are therefore marked with Copyright (c) Data Carpentry"
+* Please also check the credits section for more references/acknolwedgements
 
 

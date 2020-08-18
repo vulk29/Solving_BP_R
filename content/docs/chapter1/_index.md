@@ -1,9 +1,9 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Introduction to R: basic programming concepts, how to get help.
+linktitle: Chapter 2
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
-icon: book
+icon: book-reader
 icon_pack: fas
 
 # Page metadata.

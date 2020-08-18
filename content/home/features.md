@@ -19,7 +19,7 @@ weight = 20  # Order that this section will appear.
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%" 
+  description = "100%" 
   
 
 

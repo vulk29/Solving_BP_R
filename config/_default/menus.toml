@@ -4,10 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
+  name = "Support Repo"
   url = "docs/"
   weight = 10
 [[main]]
-    name = "Research"  # A name for the link.
-    url = "#research"  # URL of the section.
+    name = "Syllabus"  # A name for the link.
+    url = "#syllabus"  # URL of the section.
+    weight = 10  # Position of the link in the menu.
+[[main]]
+    name = "Final assignment"  # A name for the link.
+    url = "#assignment"  # URL of the section.
+    weight = 10  # Position of the link in the menu.
+[[main]]
+    name = "Credits and additional resources"  # A name for the link.
+    url = "#resources"  # URL of the section.
     weight = 10  # Position of the link in the menu.

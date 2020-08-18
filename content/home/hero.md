@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Book Template"
+title = "This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "book.svg"
+#hero_media = "book.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -38,13 +38,13 @@ hero_media = "book.svg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "docs/"
-  label = "Get Started"
+  label = "Support repo"
   icon_pack = "fas"
   icon = "download"
   
-[cta_alt]
-  url = "docs/"
-  label = "View Documentation"
+#[cta_alt]
+ # url = "docs/"
+  #label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -53,6 +53,6 @@ hero_media = "book.svg"
 
 For [Academic Website Builder](https://sourcethemes.com/academic/).
 
-Write something interesting about your project here.
+You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

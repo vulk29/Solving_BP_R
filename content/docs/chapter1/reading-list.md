@@ -7,4 +7,4 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 3
 ---
 
-Cool content gets added here.
+If for whatever reason you struggle with R studio, see also Grolemund Appendices A, B, C. 

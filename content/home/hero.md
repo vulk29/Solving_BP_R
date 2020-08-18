@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
+title = "Welcome. This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "book.svg"

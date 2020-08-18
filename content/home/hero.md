@@ -46,10 +46,7 @@ title = "This is the home page for the Master course: Solving business problems 
  # url = "docs/"
   #label = "View Documentation"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
-+++
+
 
 You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
 

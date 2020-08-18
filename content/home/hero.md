@@ -50,4 +50,4 @@ title = "This is the home page for the Master course: Solving business problems 
 
 You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+

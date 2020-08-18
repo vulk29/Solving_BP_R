@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Basic programing concepts.
 weight: 1
 icon: book-reader
 icon_pack: fas
@@ -12,43 +12,22 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+There is a plethora of resources online that explain the basics well. See also the Part II in the Hands on programming book.
+  
+Alternatively, see [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html) in the book by one of R's creators Hadley Wickham called "R for Data Science". Bear in mind that Wickham starts his book off with data visualisation, hence the exercise portion assumes that prerequisite. 
+  
+If you're a viewer, the accessible option is a video by "How to R" which covers all the basics like using R as a calculator, assigning values and types of objects well, if slightly superficially. It is accessible, inviting and short.
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_Nruq9-NQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+For the student that wants to go deeper, I recommend a video from Berkeley's R bootcamp. It covers the same bases as the video above, but expands on them greatly. Contrary to the one above, it includes conceptual commentary, being a part of a lecture. What is particularly beneficial is that it does not brush over vectors and is very thorough with data structures. Unsurprisingly, it is also nearly three times the length of the previous one.
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWrz8JJGKvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This feature can be used for publishing content such as:
+Whatever you do, don't just passively listen/read/watch. Try and work through some of the exercises.
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete courses
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
+I recommend the _swirl_ package, which is a built in learning experience in the R console. You can start it by installing the package, calling it and finally launching _swirl_. See the code below. (You can paste it directly into your console!) Once you launch, choose the R Programming course and start with "Basic Building Blocks".
 ```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+install.packages("swirl") # install, you only need to do this once
+library(swirl) # call
+swirl() # launch

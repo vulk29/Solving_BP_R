@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-### Installing R and RStudio
+## Installing R and RStudio
 
 What you're gonna need is to install the R software environment [here](https://mirrors.dotsrc.org/cran/) for your operating system.
   

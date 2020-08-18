@@ -40,7 +40,7 @@ title = "This is the home page for the Master course: Solving business problems 
   url = "docs/"
   label = "Support repo"
   icon_pack = "fas"
-  icon = "computer-code"
+  icon = "laptop-code"
   
 #[cta_alt]
  # url = "docs/"

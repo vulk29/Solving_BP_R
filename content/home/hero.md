@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
+title = "Welcome to Solving business problems with R!"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "book.svg"
@@ -53,5 +53,5 @@ title = "This is the home page for the Master course: Solving business problems 
 
 
 
-You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
+This is the home page for the fall 2020 variant of this course. You will find here a number of additional resources, links, for the course. Some of these documents are on blackboard as well This is very much a live document so it will be updated throughout the course. 
 

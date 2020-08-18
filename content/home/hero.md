@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome. This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
+title = "This is the home page for the Master course: Solving business problems with R at AU, fall 2020"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "book.svg"
@@ -17,7 +17,7 @@ title = "Welcome. This is the home page for the Master course: Solving business 
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+  # color = "navy"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
@@ -40,14 +40,19 @@ title = "Welcome. This is the home page for the Master course: Solving business 
   url = "docs/"
   label = "Support repo"
   icon_pack = "fas"
-  icon = "laptop-code"
+  icon = "download"
   
 #[cta_alt]
  # url = "docs/"
   #label = "View Documentation"
 
+# Note. An optional note to show underneath the links.
+[cta_note]
+  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
++++
 
+For [Academic Website Builder](https://sourcethemes.com/academic/).
 
 You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
 
-
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

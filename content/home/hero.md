@@ -17,7 +17,7 @@ title = "This is the home page for the Master course: Solving business problems 
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "navy"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
@@ -51,7 +51,7 @@ title = "This is the home page for the Master course: Solving business problems 
   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
+#For [Academic Website Builder](https://sourcethemes.com/academic/).
 
 You will find here a number of additional resources, links, for the course. This is very much a live document so it will be updated throughout the course. 
 

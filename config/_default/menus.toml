@@ -6,16 +6,16 @@
 [[main]]
   name = "Support Repo"
   url = "docs/"
-  weight = 10
+  weight = 2
 [[main]]
     name = "Syllabus"  # A name for the link.
     url = "#syllabus"  # URL of the section.
-    weight = 10  # Position of the link in the menu.
+    weight = 1  # Position of the link in the menu.
 [[main]]
     name = "Final assignment"  # A name for the link.
     url = "#assignment"  # URL of the section.
-    weight = 10  # Position of the link in the menu.
+    weight = 3  # Position of the link in the menu.
 [[main]]
     name = "Credits and additional resources"  # A name for the link.
     url = "#resources"  # URL of the section.
-    weight = 10  # Position of the link in the menu.
+    weight = 4  # Position of the link in the menu.

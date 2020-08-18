@@ -7,3 +7,7 @@
   name = "Documentation"
   url = "docs/"
   weight = 10
+[[main]]
+    name = "Research"  # A name for the link.
+    url = "#research"  # URL of the section.
+    weight = 10  # Position of the link in the menu.

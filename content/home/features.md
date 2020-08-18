@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+#title = "Features"
+#subtitle = "Document _anything_ ✨"
 
 # Showcase features.
 # 

@@ -14,13 +14,7 @@ weight = 20  # Order that this section will appear.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-  
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "100%" 
-  
+
 
 
 # Uncomment to use emoji icons.

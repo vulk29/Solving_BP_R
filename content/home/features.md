@@ -14,23 +14,14 @@ subtitle = "Document _anything_ ✨"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "book-open"
-  icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
   
 [[feature]]
-  icon = "question"
-  icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "90%" 
   
-[[feature]]
-  icon = "list-alt"
-  icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

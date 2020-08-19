@@ -12,13 +12,19 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## this tutorial will teach you basic R commands that will come in handy soon 
-start here by downloading the files 
+## Basic R (part2)
+In this tutorial you will learn how to load data into R, basic R data structures as well as how to perform simple operations on a dataset, such as ploting a graph.
+Note: these tutorials are part of a longer course. As usual, I encourage you to check it all out, but make sure you get the basics done first!
+
+Start here by downloading the files 
 http://swcarpentry.github.io/r-novice-inflammation/setup.html
 
-go through the software carpentry tutorial you can find here: http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/index.html
+You find the tutorial here: http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/index.html
 
-then this one to learn about data structures. 
+Make sure you do the exercises before class.
 
-http://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/index.html
+Fill in the survey
+
+
+
 

@@ -20,7 +20,7 @@
     url = "assignment"  # URL of the section.
     weight = 4  # Position of the link in the menu.
 [[main]]
-    name = "Credits and additional resources"  # A name for the link.
+    name = "Credits/resources"  # A name for the link.
     url = "resources"  # URL of the section.
     weight = 6  # Position of the link in the menu.
 [[main]]

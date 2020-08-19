@@ -14,13 +14,17 @@
 [[main]]
     name = "Tutorials"  # A name for the link.
     url = "tutorials"  # URL of the section.
-    weight = 4  # Position of the link in the menu.
+    weight = 3  # Position of the link in the menu.
 [[main]]
     name = "Final assignment"  # A name for the link.
     url = "assignment"  # URL of the section.
-    weight = 3  # Position of the link in the menu.
+    weight = 4  # Position of the link in the menu.
 [[main]]
     name = "Credits and additional resources"  # A name for the link.
     url = "resources"  # URL of the section.
-    weight = 4  # Position of the link in the menu.
+    weight = 6  # Position of the link in the menu.
+[[main]]
+    name = "About"  # A name for the link.
+    url = "about"  # URL of the section.
+    weight = 5  # Position of the link in the menu.
     

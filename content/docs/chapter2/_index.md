@@ -24,10 +24,4 @@ For the student that wants to go deeper, I recommend a video from Berkeley's R b
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CWrz8JJGKvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Whatever you do, don't just passively listen/read/watch. Try and work through some of the exercises.
 
-I recommend the _swirl_ package, which is a built in learning experience in the R console. You can start it by installing the package, calling it and finally launching _swirl_. See the code below. (You can paste it directly into your console!) Once you launch, choose the R Programming course and start with "Basic Building Blocks".
-```
-install.packages("swirl") # install, you only need to do this once
-library(swirl) # call
-swirl() # launch

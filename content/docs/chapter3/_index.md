@@ -51,9 +51,4 @@ The second part on EDA from James Dayhuff deals with multivariate analysis, or a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tTJHRaPXxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To practice: use the swirl package covered above. Enter the code below in you console and follow the prompts! (fair warning: includes a lot of visualisation!)
-```
-library(swirl)
-install_course("Exploratory_Data_Analysis")
-swirl()
-```
+

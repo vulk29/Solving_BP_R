@@ -2,8 +2,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 3
-summary: title_goes_here.
-weight: 1
+summary: Data cleaning and manipulation
+weight: 3
 icon: book-reader
 icon_pack: fas
 

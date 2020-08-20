@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Chapter 4
 summary: Question development. EDA
-weight: 1
+weight: 4
 icon: book-reader
 icon_pack: fas
 

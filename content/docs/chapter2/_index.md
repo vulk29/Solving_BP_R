@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Chapter 2
 summary: Basic programing concepts.
-weight: 1
+weight: 2
 icon: book-reader
 icon_pack: fas
 

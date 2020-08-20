@@ -1,6 +1,6 @@
 
 ---
-# Data cleaning and manipulating datasets
+# Title, summary, and page position.
 linktitle: Chapter 3
 summary: title_goes_here.
 weight: 1

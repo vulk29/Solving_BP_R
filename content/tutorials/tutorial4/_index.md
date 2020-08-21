@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Tutorial 4
 summary: Exploratory data analysis
-weight: 1
+weight: 4
 icon: book-reader
 icon_pack: fas
 

@@ -22,6 +22,6 @@ install.packages("swirl") # install, you only need to do this once
 library(swirl) # call
 swirl() # launch
 ```
-(aside for the Basic Building Blocks there are a lot of cool tutorials tehre, but for our course, you don't need to worry about them just yet)
+(aside for the Basic Building Blocks there are a lot of cool tutorials there, but for our course, you don't need to worry about them just yet)
 * 3. Once you are done, click on this link (LINK) and fill in the survey. 
 * 4. Join in on zoom on Thursday Sept 10 at 10.00. Zoom link is on Blackboard. 

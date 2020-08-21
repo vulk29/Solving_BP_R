@@ -21,5 +21,7 @@ library(swirl)
 install_course("Exploratory_Data_Analysis")
 swirl()
 ```
+Once you are done with these, solve Exercises 1 and 2 from page 48 in Doing data science.
+
 * 3. Fill in the survey
 * 4. Zoom meeting starts at 12. There will be time for questions, debugging and discussions. 

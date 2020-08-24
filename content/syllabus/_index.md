@@ -16,48 +16,12 @@ https://kursuskatalog.au.dk/da/course/102566/Solving-Business-Problems-with-R
 | 40       | 4      | **Data visualization and communication** Topics: Plots, graphs. Telling a story with graphics Cleveland, W. S., and McGill, R. Graphical perception: Theory, experimentation, and application to the development of graphical methods .Journal of the American statistical association79, 387 (1984), 531–554 Gelman, A., and Unwin, A. Infovis and statistical graphics: different goals, different looks. Journal of Computational and Graphical Statistics 22, 1 (2013), 2–28 Optional:  Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D., and Brooks, C. Useful junk?: the effects of visual embellishment on comprehension and memorability of charts. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems(2010), ACM,pp. 2573–2582 Davenport, T. (2013, Jan 31). Telling a story with data. Deloitte Insights. Retrieved Aug 10, 2020, from <https://www2.deloitte.com/insights/us/en/deloitte-review/issue-12/telling-a-story-with-data.html https://www.callingbullshit.org/tools/tools_proportional_ink.html> | Data visualization  Topics: Plots, graphs. <https://minecr.shinyapps.io/dsbox-04-legosales/>                                                                                                                                                                                                                                                                                               |
 | 41       | 5      | **Statistical thinking (p1)** Probabilities, confidence intervals, statistical inference – what is the relevance? Provost and Fawcett 2013:  Chapter 3. Introduction to Predictive Modeling: From Correlation to Supervised Segmentation Chapter 4. Fitting a Model to Data Chapter 7. Decision Analytic Thinking I: What Is a Good Model? Chapter 9. Evidence and Probabilities If you need to refresh your statistics:  <https://rafalab.github.io/dsbook/introduction-to-statistics-with-r.html>  <https://rafalab.github.io/dsbook/inference.html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Exploratory Data analysis Reading/support Ex 1 and 2 from page 48 in O'Neil and Schutt 2013 + Codecamp (link on course website) *DL for submitting project team + analysis plan*                                                                                                                                                                                                           |
 | 42       | 6      | **Crash course into machine learning** Conceptual issues (how ML relates to other statistical models):   Supervised and unsupervised learning;   Cross-validation and overfitting;   Bias/variance trade-off; Big data, machine learning, and the social sciences; Hannah Wallach (2014). <https://rafalab.github.io/dsbook/introduction-to-machine-learning.html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Machine learning** Supervised learning TBA                                                                                                                                                                                                                                                                                                                                               |
-| 44       | 7      | **Statistical thinking: overfitting and other statistical plagues (p2)** Chapter 5. Overfitting and Its Avoidance\< Provost and Fawcett 2013 Blakeley B McShane, David Gal, Andrew Gelman, Christian Robert, and Jennifer L Tackett. Abandon statistical significance. arXiv preprintarXiv:1709.07588, 2017 Gelman, A. and Weakliem, D., 2009. Of beauty, sex and power: Too little attention has been paid to the statistical challenges in estimating small effects. *American Scientist*, *97*(4), pp.310-316. Will discuss in class: <https://www.callingbullshit.org/case_studies/case_study_gender_gap_running.html> A bit more refreshing, if needed: <https://rafalab.github.io/dsbook/association-is-not-causation.html>                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                            
-
-Projects supervision
-
-Lecturer and peer feedback on initial plan
-|
-| 45 |
-
-8|
-
-**Data science inside the organization**
-
-Guest Talk of Michael Dornauf (REWE)
-
-Chapter 13. Data Science and Business Strategy \< Provost and Fawcett 2013
-
-Appendix A \< Provost and Fawcett 2013
-
-Enterprise Data Analysis and Visualization: An Interview Study; Sean Kandel,
-Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
-
-https://blog.adobe.com/en/2010/10/19/reporting-vs-analysis-whats-the-difference.html\#gs.e6jt9f
-
-|**Machine learning**
-
-Backlog\* + Unsupervised learning
-
-TBA|
-
-|46|
-
-9|
-
-**Text mining**
-
-Topics: Text as a resource. Work bagging, stemming, sentiment analysis, LIWC.
-
-Chapter 10. Representing and Mining Text \< Provost and Fawcett 2013
-
-|Text mining
-
-TBA
+| 44       | 7      | **Statistical thinking: overfitting and other statistical plagues (p2)** Chapter 5. Overfitting and Its Avoidance\< Provost and Fawcett 2013 Blakeley B McShane, David Gal, Andrew Gelman, Christian Robert, and Jennifer L Tackett. Abandon statistical significance. arXiv preprintarXiv:1709.07588, 2017 Gelman, A. and Weakliem, D., 2009. Of beauty, sex and power: Too little attention has been paid to the statistical challenges in estimating small effects. *American Scientist*, *97*(4), pp.310-316. Will discuss in class: <https://www.callingbullshit.org/case_studies/case_study_gender_gap_running.html> A bit more refreshing, if needed: <https://rafalab.github.io/dsbook/association-is-not-causation.html> | **Projects supervision** Lecturer and peer feedback on initial plan                                                                                                                                                                                                                                                                                                                           
+| 
+| 45       | 8      |**Data science inside the organization** Guest Talk of Michael Dornauf (REWE) Chapter 13. Data Science and Business Strategy \< Provost and Fawcett 2013 
+Appendix A \< Provost and Fawcett 2013 Enterprise Data Analysis and Visualization: An Interview Study; Sean Kandel,Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
+https://blog.adobe.com/en/2010/10/19/reporting-vs-analysis-whats-the-difference.html\#gs.e6jt9f |**Machine learning** Backlog\* + Unsupervised learning TBA
+| 46       | 9      |**Text mining** Topics: Text as a resource. Work bagging, stemming, sentiment analysis, LIWC. Chapter 10. Representing and Mining Text \< Provost and Fawcett 2013 |Text mining TBA
 
 |47|
 

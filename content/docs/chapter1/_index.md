@@ -25,7 +25,7 @@ To install RStudio, see https://rstudio.com/products/rstudio/download/#download 
 
 Once you've installed RStudio you should see something like this.  
   
-![](/assets/images/icon.png)
+![](images/RStudioIntro1.png)
 
 
 ## Knowing your way around RStudio (Copyright (c) Data Carpentry)

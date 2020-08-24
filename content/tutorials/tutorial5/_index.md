@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Tutorial 4
+linktitle: Tutorial 5
 summary: Exploratory data analysis
-weight: 4
+weight: 5
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 4
+title: Chapter 5
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---

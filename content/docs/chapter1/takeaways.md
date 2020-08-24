@@ -8,4 +8,4 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-Fill in the survey by DATE 'Did you manage to install R studio?'
+Fill in the suvery https://forms.gle/zbPUYi2sP7fAE2cJ9 before the first class (September 8)

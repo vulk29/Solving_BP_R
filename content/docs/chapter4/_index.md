@@ -11,7 +11,7 @@ title: Chapter 4
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
-## 3. Question development
+## Question development
 
 > *“There are no routine statistical questions, only questionable statistical routines.” — Sir David Cox*
 

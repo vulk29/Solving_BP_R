@@ -1,7 +1,20 @@
+---
+# Title, summary, and page position.
+linktitle: Chapter 5
+summary: Data vizualization
+weight: 5
+icon: book-reader
+icon_pack: fas
+
+# Page metadata.
+title: Chapter 5
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
+---
 
 Data visualisation
 
-It seems that we have already used data visualisation extensively for other tasks without ever talking about data visualisation. So, I will assume that you already have some practical experience with graphing but need a general explanation to start creating your own plots without problem. 
+You should have some practical experience with graphing but this section should give you a more general explanation to start creating your own plots without problem. 
 
 The tool we are going to use is `ggplot2` by Hadley Wickham which is based on the _Grammar of Graphics_, developed by Leland Wilkinson. In it, each individual component of a plot is organized into _layers_ which is how ggplots are usually built, with the base `ggplot` function and added (`+`) layers that put geometric objects on the graph, such as `geoms` (e.g. `geom_point` which adds scattered points). Below I give you the general recipe for a ggplot.  
 ```
@@ -18,7 +31,7 @@ No one can explain ggplot better than its creator, so I really really encourage 
 
 Another brilliant reading is "Data visualization: A practical introduction" by Kieran Healy which you might know from lectures. Assuming that you're already familiar with the basics of how to get around in R, I'd suggest starting at [Chapter 3](https://socviz.co/makeplot.html#makeplot) and going as far as possible.
 
-Not instead, but as an addition, before or after reading, you can check out a Data Science Dojo webinar on ggplot. The speaker analyzes a famous dataset about titanic. It features, bar, box and and density plots alongside histograms. It also handles faceting, proper theme and labelling. I embedded the webinar below. It may seem a tad long but the proper R section begins around the 26th minute and 1.25 speed is encouraged. The R file for the session is [here](https://code.datasciencedojo.com/datasciencedojo/tutorials/blob/master/Introduction%20to%20Data%20Visualization%20with%20R%20and%20ggplot2/Data%20Visualization%20with%20ggplot2.R) and the csv can be downloaded [here](https://www.kaggle.com/hesh97/titanicdataset-traincsv).
+Not instead, but as an addition, before or after reading, you can check out a Data Science Dojo webinar on ggplot. The speaker analyzes a famous dataset about Titanic. It features, bar, box and and density plots alongside histograms. It also handles faceting, proper theme and labelling. I embedded the webinar below. It may seem a tad long but the proper R section begins around the 26th minute and 1.25 speed is encouraged. The R file for the session is [here](https://code.datasciencedojo.com/datasciencedojo/tutorials/blob/master/Introduction%20to%20Data%20Visualization%20with%20R%20and%20ggplot2/Data%20Visualization%20with%20ggplot2.R) and the csv can be downloaded [here](https://www.kaggle.com/hesh97/titanicdataset-traincsv).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49fADBfcDD4?start=1615" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

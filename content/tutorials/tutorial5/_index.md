@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-In this tutorial you will learn how get going with Exploratory Data analysis. 
+In this tutorial you will learn how to get going with Exploratory Data analysis. 
 * 1. Watch the video(s) on BB
 * 2. complete the swirl tutorial on Exploratory Data Analysis. 
 Enter the code below in you console and follow the prompts! (fair warning: includes a lot of visualisation!)

@@ -18,10 +18,10 @@ What you're gonna need is to install the R software environment [here](https://m
   
 ![](https://eeecon.uibk.ac.at/~discdown/rprogramming/images/02/02_R_cran.jpg){width=50% height=50%}  
   
-Click on the link to your OS and click on the latest version to install, for mac it's the latest .pkg file on top of the list (4.0.0)
+Click on the link to your operating system and click on the latest version to install, for mac it's the latest .pkg file on top of the list (4.0.0). If you don't know your operating system, go here: https://whatsmyos.com/
 
 Then install RStudio, which is an integrated development environment or [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). It is where you will spend most time with R, it has a welcoming layout and many functions that make R more accessible if you've only worked with graphical user interface tools for analyzing data, such as excel.  
-To install RStudio, see https://rstudio.com/products/rstudio/download/#download for the free desktop version.
+To install RStudio, see https://rstudio.com/products/rstudio/download/#download for the free desktop version. Depending on whether you are a Mac or Windows user, the next steps will vary, but here is a step by step guide https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/. 
 
 Once you've installed RStudio you should see something like this.  
   
@@ -30,7 +30,7 @@ Once you've installed RStudio you should see something like this.
 
 ## Knowing your way around RStudio (Copyright (c) Data Carpentry)
 
-Let's start by learning about [RStudio](https://www.rstudio.com/), which is an
+Now that you have everything going, let's start by learning about [RStudio](https://www.rstudio.com/), which is an
 Integrated Development Environment (IDE) for working with R.
 
 The RStudio IDE open-source product is free under the
@@ -124,8 +124,7 @@ because it will fail on someone else's computer.
 
   
 ### The RStudio Interface  
-Let's take a quick tour of RStudio.
-
+Finally, let's take a quick tour of RStudio.
 
 In the panel called Console you can play around with what R can do. One of the most important things to do first is to install packages which will be usefull and/or necessary for solving the problems in this course and beyond. 
 

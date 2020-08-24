@@ -25,7 +25,7 @@ To install RStudio, see https://rstudio.com/products/rstudio/download/#download 
 
 Once you've installed RStudio you should see something like this.  
   
-![](content/docs/chapter1/RStudioIntro1.png)
+![](RStudioIntro1.png)
 
 
 ## Knowing your way around RStudio (Copyright (c) Data Carpentry)
@@ -142,7 +142,7 @@ In any learning any programming language your best weapon is __documentation__. 
 ```
 ?library
 ```
-![](content/docs/chapter1/RStudioIntro2.png)
+![](/RStudioIntro2.png)
 
 The help box reveals all the useful information about the function, such as the description, the arguments the function takes, examples of use, related functions and the package the funtion comes from. In the case of `library`, the package is `{base}`, a related function is `require`, the description yields that the function 'loads and attaches packages', the arguments include for example `quietly`, which is a boolean that controls whether library prints out that the attaching of the package was successfull or not. Under 'Usage', you can also see the what are the default values of the arguments, for example, see that `quietly` has a default of `FALSE` so `library` will print to alert you of a successful attachment, unless you explicitly tell it not to: 
 ```

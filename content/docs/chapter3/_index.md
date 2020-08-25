@@ -17,9 +17,10 @@ type: book  # Do not modify.
 
 In this section we will explore how to work with datasets which are not perfect and need some 'cleaning' before they can be used for business purposes, like reporting. But, even if it _is_ clean you're gonna need to know how to organize it. 
 
-You're gonna need to install a package of packages for that if you haven't already. As you might have guessed, it's `tidyverse`, your one-stop shop for getting started with manipulating data. Mind you, there is a _raging_ debate on whether to start with tidyverse or base R, and I do encourage you to check it out if you want to dig deeper. Both have their pros and cons, here, you are gonna learn the _tidyverse_ right away for faster results, but bear in mind that [there is another way.](https://github.com/matloff/TidyverseSkeptic).
+You're gonna need to install a collection of packages for that if you haven't already. This is `tidyverse`, your one-stop shop for getting started with manipulating data. Mind you, there is a _raging_ debate on whether to start with tidyverse or base R, and I do encourage you to check it out if you want to dig deeper. Both have their pros and cons, here, you are gonna learn the _tidyverse_ right away for faster results, but bear in mind that [there is another way.](https://github.com/matloff/TidyverseSkeptic).
+Note that there are a number of different packages inside tidyverse, see an overview here https://www.tidyverse.org/. We will be using 'dyplr' in this chapter. 
 
-Okay, now that that's out of the way, let's install the tidyverse.
+Okay, now that that's out of the way, let's install the tidyverse. 
 ```
 install.packages('tidyverse')
 library(tidyverse)

@@ -123,8 +123,7 @@ reset your working directory. However, your scripts should not include this line
 because it will fail on someone else's computer.
 
   
-### The RStudio Interface  
-Finally, let's take a quick tour of RStudio.
+## Installing Packages
 
 In the panel called Console you can play around with what R can do. One of the most important things to do first is to install packages which will be usefull and/or necessary for solving the problems in this course and beyond. 
 

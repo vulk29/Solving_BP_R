@@ -44,9 +44,11 @@ We can now look at our `iris` dataset to see whether it has changed.
 View(iris) # to op4n a tab with the dataset
 str(iris$Species) # to see if we dropped any Species from the column
 ```
-It's clearly remained whole. Therefore, whenever you use `dplyr` verbs remember to assign the new data frames to new variables, if you're gonna use them later. 
-
-
+It's clearly remained whole. Therefore, whenever you use `dplyr` verbs remember to assign the new data frames to new variables, if you're gonna use them later. So you should write:
+```
+setosa_iris<-filter(iris, Species == "setosa") # filter only the flowers of 'setosa' species
+```
+if you want to create a new data frame with the filtered results. 
 ## dplyr resources
 
 For a comprehensive cheatsheet with more verbs, look to the RStudio's materials on `dplyr`, which is the tidyverse package all these functions belong to. 

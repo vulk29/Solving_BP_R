@@ -10,7 +10,7 @@ weight: 1
 
 ## Goals
 
-Be able to work with different types of data in R (vectors, variables).
-Know how to create new objects with "<-" and assign different values. 
-What a function is and how to call it 
+**Be able to work with different types of data in R (vectors, variables).**
+**Know how to create new objects with "<-" and assign different values. **
+**What a function is and how to call it **
 

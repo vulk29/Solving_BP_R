@@ -53,6 +53,6 @@ title = "Welcome to Solving business problems with R!"
 
 
 
-This is the home page for the fall 2020 variant of this course. You will find here a number of additional resources, links, for the course. The official documents are on blackboard as well. They are here only for your convenience. If in doubt, always ask. 
+This is the home page for the fall 2020 variant of this course. You will find here a number of additional resources, links, for the course. Please go to blackboard for syllabus, slides, videos etc. This is just a repository for tutorials and additional resources. 
 Please note, this is very much a live document so it will be updated throughout the course. 
 

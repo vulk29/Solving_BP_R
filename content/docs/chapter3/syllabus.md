@@ -10,4 +10,4 @@ weight: 1
 
 ## Goals
 
-* Be able to perform basic operations using the dyplr package of tidyverse
+* Be able to perform basic wrangling operations using the dyplr package of tidyverse: e.g. filter, merge. 

@@ -7,7 +7,7 @@ This repository was setup by Oana and Michael, with help from Jedrek to help stu
 
 This initiative was funded via EDU-IT https://www.au.dk/edu-it-hub/. 
 
-Please feel free to reuse, edit, reshare the content, but please know it is made available under Creative Commons Attribution Share Alike 4.0 International license.
+* The content on this repository is made available under Creative Commons Attribution Share Alike 4.0 International license. *
 
 
 

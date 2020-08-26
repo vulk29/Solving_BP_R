@@ -1,3 +1,17 @@
+---
+# Title, summary, and page position.
+linktitle: Tutorial 9
+summary: Text analysis (in R)
+weight: 1
+icon: book-reader
+icon_pack: fas
+
+# Page metadata.
+title: Tutorial 9
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
+---
+
 ## Text Mining/text analysis in R.
 
 Load a sample from twitter into your R. You have two options:

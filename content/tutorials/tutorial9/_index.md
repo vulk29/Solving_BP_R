@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Tutorial 9
 summary: Text analysis (in R)
-weight: 1
+weight: 9
 icon: book-reader
 icon_pack: fas
 

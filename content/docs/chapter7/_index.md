@@ -1,6 +1,21 @@
-## 5. Cluster analysis
+---
+# Title, summary, and page position.
+linktitle: Chapter 7
+summary: Clustering and regressions (recap)
+weight: 7
+icon: book-reader
+icon_pack: fas
 
-The next topic to cover is the first one that deals more with math than it does with programming. Cluster analysis is finding subgroups of observations within a data set. Usually if we plot a few observations based on two variables, we can do this easily by "eyeballing" them, but computers can't. They don't know how many clusters to build or how to put them together. If we manage to teach them that, we can exceed the ability of our own eyes and include many more variables and have much better clusters. Cluster analysis is what computer scientists would call an "unsupervised learning method", because there is no response variable ("y") and the algorithm instead of predicting something, tries to find similarities in the existing data and group it. Incidentally, cluster analysis is also _probably_ your very first **machine learning** model, so that's one buzzword off the bucket list.
+# Page metadata.
+title: Chapter 7
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
+---
+## Cluster analysis
+
+The next topic to cover is the first one that deals more with math than it does with programming. Cluster analysis and regression analysis are the non so fancy terms for 'unsupervised' and 'supervised' learning. Well, that is not entirely true, but it is also not entirely untrue. That is why, you need to make sure you have the basics right. It's also important to be able to run these things in R.
+
+Cluster analysis is finding subgroups of observations within a data set. Usually if we plot a few observations based on two variables, we can do this easily by "eyeballing" them, but computers can't. They don't know how many clusters to build or how to put them together. If we manage to teach them that, we can exceed the ability of our own eyes and include many more variables and have much better clusters. Cluster analysis is what computer scientists would call an "unsupervised learning method", because there is no response variable ("y") and the algorithm instead of predicting something, tries to find similarities in the existing data and group it. Incidentally, cluster analysis is also _probably_ your very first **machine learning** model, so that's one buzzword off the bucket list.
 
 On a serious note, as you might already know, there are two most popular approaches to algorithmically solving the clustering problem, *k-means* and *hierarchical clustering*. In this section I will focus on what is probably the most popular one, *k-means*. ([Seif, 2018](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68))  
   
@@ -37,6 +52,7 @@ ggplot(data=iris, mapping = aes(y = Petal.Length, x = Petal.Width)) +
 ```
 
 Here we see that the Species mostly follow what we'd expect by eyeballing in terms of the Petals. This is of course a subjective exercise but if I were gonna cluster the flowers with my eyes based only on those two variables and without knowing about the Species, it'd look something like this. 
+
 ```{r}
 ggplot(data=iris, mapping = aes(y = Petal.Length, x = Petal.Width)) + 
   geom_point(mapping = aes(color = Species)) +
@@ -117,7 +133,7 @@ Now that we have the table we can calculate the number of correctly clustered fl
 $$ rate_{success} = \frac{successes}{nrow(iris)} = \frac{50+39+36}{150} \approx 83.3\% $$
 It looks like our clustering was about 83% correct. Of course most of the time we're not gonna have such a neat measure of success as with the flowers example but it well illustrates that clustering is effective and useful. What if the species classification was lost from the data?
 
-## 6. Regression analysis
+## Regression analysis
 
 You've probably heard of modeling before, it seems that nowadays everyone is answering all questions they have with _fitting a model_, _modeling a relationship_ or simply trying to _predict the sales_. Well the days of being left out of this conversation are over and we're now going to start modeling ourselves. We're gonna start with a detailed walk-through of a simple linear model and then go onto a multiple regression.
 

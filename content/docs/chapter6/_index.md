@@ -1,4 +1,17 @@
-## 7. Noisy data pt. 1
+---
+# Title, summary, and page position.
+linktitle: Chapter 6
+summary: My data is not normally distributed, now what?
+weight: 6
+icon: book-reader
+icon_pack: fas
+
+# Page metadata.
+title: Chapter 6
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
+---
+## Noisy data pt. 1
 
 In this section we take a step back from modeling and analyze the distribution of our data. Before we largely assumed that it's [normally distributed](https://www3.nd.edu/~rwilliam/stats1/x21.pdf), now we are going to investigate whether that assumption was a warranted one. 
 
@@ -33,9 +46,7 @@ The results of the test yield that the null hypothesis, which is "the data belon
 Lastly, be wary that there is [an argument for normality testing being 'essentially useless'](https://stats.stackexchange.com/questions/2492/is-normality-testing-essentially-useless), especially for bigger sample sizes. 
 
 
-
-
-## 8. Noisy data pt. 2
+## Noisy data pt. 2
 
 In this section we will introduce methods of making our data more normal and some non-parametric tests.
 

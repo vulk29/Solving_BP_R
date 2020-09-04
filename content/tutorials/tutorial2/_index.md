@@ -16,6 +16,7 @@ type: book  # Do not modify.
 
 * 1. Watch the tutorial video(s) available on BB. In this tutorial you will learn how to load data into R, basic R data structures as well as how to perform simple operations on a dataset, such as ploting a graph.
 * 2. Exercises
+
 A. Complete Modules 1 and 2 from "A (very) short introduction to R". You first need to install it using the code below. Thereafter remember to load swirl and launch it. Then go through the two Modules at your leasure. Module 1 is a bit of a recap (but has slightly more challenging exercises). 
 ```
 swirl::install_course("A_(very)_short_introduction_to_R") 

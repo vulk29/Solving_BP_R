@@ -4,8 +4,8 @@ type: book  # Do not modify.
 ---
 ## Important deadlines
 
-Start signing up as a team with your project proposal. To do so, fill out this form (LINK) before DEADLINE 
-In the tutorial in week DEADLINE you will get feedback on your proposals. 
+Start signing up as a team with your project proposal. To do so, fill out this form (LINK will follow) before October 5 
+In the tutorial in week 44 you will get feedback on your proposals. 
 
 ## Final project structure
 

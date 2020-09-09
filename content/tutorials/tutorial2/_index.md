@@ -31,7 +31,7 @@ You find the tutorial here: http://swcarpentry.github.io/r-novice-inflammation/0
 
 NB. You dont learn how to do data science by reading. Write in the code yourselves. Run it. Fix it, if there are bugs. Modify it. 
 
-* 3. Once you are done, click on this link (LINK) and fill in the survey. 
+* 3. Once you are done, click on this link (https://forms.gle/YuaC179c8KjDNDuS6) and fill in the survey. 
 * 4. Join in on zoom on Friday Sept 18 at 12.00. Zoom link is on Blackboard. 
 
 

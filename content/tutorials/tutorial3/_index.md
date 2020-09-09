@@ -20,5 +20,5 @@ https://www.datacamp.com/courses/data-manipulation-with-dplyr-in-r
 
 NB. Although you can "cheat" and see the solutions for the exercises, you dont learn how to do data science by reading. Write in the code yourselves. Run it. Fix it, if there are bugs. Modify it to see what happens.. Don't be afraid to experiment! 
 
-* 3. Once you are done, click on this link (LINK) and fill in the survey. 
+* 3. Once you are done, click on this link (https://forms.gle/35SneP3paHwLt5Bb9) and fill in the survey. 
 * 4. Join in on zoom on Friday Sept 25 at 12.00. Zoom link is on Blackboard. 

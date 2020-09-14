@@ -23,6 +23,8 @@ swirl::install_course("A_(very)_short_introduction_to_R")
 library('swirl')
 swirl()
 ```
+########currently the repository for the exercises above is down. This page will be updated as soon as there is a solution. You can still work on exercise B, below :)
+
 B. You are on a roll! Now, complete the tutorial from Sofware carpentry. 
 Start here by downloading the files 
 http://swcarpentry.github.io/r-novice-inflammation/setup.html

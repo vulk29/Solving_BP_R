@@ -17,13 +17,7 @@ type: book  # Do not modify.
 * 1. Watch the tutorial video(s) available on BB. In this tutorial you will learn how to load data into R, basic R data structures as well as how to perform simple operations on a dataset, such as ploting a graph.
 * 2. Exercises
 
-A. Complete Modules 1 and 2 from "A (very) short introduction to R". You first need to install it using the code below. Thereafter remember to load swirl and launch it. Then go through the two Modules at your leasure. Module 1 is a bit of a recap (but has slightly more challenging exercises). 
-```
-swirl::install_course("A_(very)_short_introduction_to_R") 
-library('swirl')
-swirl()
-```
-########currently the repository for the exercises above is down. This page will be updated as soon as there is a solution. You can still work on exercise B, below :)
+A. Complete the first tutorial from https://rstudio.cloud/learn/primers/ - "The basics". Rstudio cloud requires a log in but is free to use (We will use Rstudio Cloud in class on Tuesday, so you should create an account anyway). There are two tutorials under "The basics" - Visualization Basics and Programming Basics. As a minimum, complete the "Vizualization Basics". Complete the second one for a recap and more indepth knowledge about functions and data structures. 
 
 B. You are on a roll! Now, complete the tutorial from Sofware carpentry. 
 Start here by downloading the files 

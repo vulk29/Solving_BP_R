@@ -3,7 +3,7 @@ title: About
 type: book  # Do not modify.
 ---
 
-This repository was setup by Oana and Michael, with help from Jedrek to help students enrolled in the 'Solving business problems with R' elective running at Aarhus University, in the fall of 2020. 
+This repository was setup by Oana with help from Jedrek to help students enrolled in the 'Solving business problems with R' elective running at Aarhus University, in the fall of 2020. 
 
 This initiative was funded via EDU-IT https://www.au.dk/edu-it-hub/. 
 

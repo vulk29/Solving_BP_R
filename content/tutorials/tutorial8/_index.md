@@ -21,7 +21,7 @@ Load a sample from twitter into your R. You have two options:
   
   If you decide so, please search for some characteristics of tweets, for example, hashtags in a given time period and download this data to your machine.
 
-* Second option: Use the dataset we have prepared: https://www.dropbox.com/s/dlxmnluoogogrv6/twitter001.csv?dl=0 
+* Second (and simpler/recommened) option: Use the dataset we have prepared: https://www.dropbox.com/s/dlxmnluoogogrv6/twitter001.csv?dl=0 
   This is a csv file, tabs are used as the separator.
 
 Please answer the following questions/do the following tasks:

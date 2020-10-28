@@ -17,7 +17,7 @@ type: book  # Do not modify.
 Load a sample from twitter into your R. You have two options:
 * First option: Download a new dataset from twitter:
 
-  For gathering a dataset from twitter you need a regular twitter account and an "academic researcher account" (https://developer.twitter.com/en/solutions/academic-research). Please note that the setup of the latter requires some waiting. Twitter will manually approve the purpose of your research before they open the account. This takes roughly a day.
+  For gathering unlimited data from twitter you need a regular twitter account and an "academic researcher account" (https://developer.twitter.com/en/solutions/academic-research). Please note that the setup of the latter requires some waiting. Twitter will manually approve the purpose of your research before they open the account. This takes roughly a day.
   
   If you decide so, please search for some characteristics of tweets, for example, hashtags in a given time period and download this data to your machine.
 

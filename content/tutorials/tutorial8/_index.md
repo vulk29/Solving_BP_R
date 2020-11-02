@@ -26,7 +26,7 @@ Load a sample from twitter into your R. You have two options:
 
 Please answer the following questions/do the following tasks:
 
-(1.1) What attributes/features does the dataframe have? How many data records are there?
+(1.1) What attributes/features are in the dataframe? How many data records are there?
 
 (1.2) What do you expect is the correlation between the number of followers and the number of followings, specifically do you expect a positive or negative correlation? Why? Test the correlation with the you decided to use. Could you support or reject your expectation?
 
